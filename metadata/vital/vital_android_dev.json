@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "build_code": "local",
+  "full_version": "v0.0.0-local",
+  "environment": "dev",
+  "changelog": "Local development build. No changes available.",
+  "release_url": "",
+  "all_releases_url": "",
+  "date": "2026-01-17",
+  "required": false,
+  "min_version": "0.0.0"
+}
